@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/blogs/6717821c46156c7887e911c7/comments
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InllcmxlbiIsImlkIjoiNjcxNjA4YmYxMDE0OTg1OGEyOTNhOTY0IiwiaWF0IjoxNzI5NTExMjQyfQ.g0KLau4YsPStbYQLBJ7UDzIDRC3I5MUNSdNELWN6D2M
+
+{
+    "comment": "Is ID working???"
+}
